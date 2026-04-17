@@ -1,0 +1,3 @@
+-keep class com.autovoz.** { *; }
+-keepattributes *Annotation*
+-dontwarn kotlin.**
